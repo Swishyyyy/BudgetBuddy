@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BudgetBuddy/static/css/main.e6c13ad2.css",
+    "main.js": "/BudgetBuddy/static/js/main.71d26593.js",
+    "index.html": "/BudgetBuddy/index.html",
+    "main.e6c13ad2.css.map": "/BudgetBuddy/static/css/main.e6c13ad2.css.map",
+    "main.71d26593.js.map": "/BudgetBuddy/static/js/main.71d26593.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.71d26593.js"
+  ]
+}
